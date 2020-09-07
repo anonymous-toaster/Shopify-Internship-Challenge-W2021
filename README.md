@@ -1,10 +1,5 @@
 # Shopify-Intership-Challenge-W2021
 
-_Name: Najmi Shamalisham_
-
-_email: najsham@gmail.com_
-
-
 
 Hello and welcome to my Shopify Winter 2021 Intership Challenge submission!
 
